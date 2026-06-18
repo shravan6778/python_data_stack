@@ -1,4 +1,35 @@
 """
+NumPy (short for Numerical Python) is a popular Python library used for scientific computing, numerical calculations, and data analysis.
+
+Why is NumPy used?
+1. Fast numerical computations
+NumPy stores data in efficient arrays and performs operations much faster than standard Python lists.
+
+2. Powerful N-dimensional arrays
+The core object in NumPy is the ndarray (N-dimensional array), which can represent:
+1D arrays (vectors)
+2D arrays (matrices)
+3D and higher-dimensional data
+
+3. Mathematical operations
+NumPy provides built-in functions for:
+Mean
+Median
+Standard deviation
+Trigonometric functions
+Linear algebra
+
+4. Supports vectorization
+Operations are applied to entire arrays without loops, making code shorter and faster.
+
+5. Foundation for other libraries
+Many Python libraries for data science and machine learning are built on NumPy, including:
+Pandas
+SciPy
+Scikit-learn
+TensorFlow
+PyTorch
+
 creattion of arrays in python
 To convert the list into array we use array() method 
 """
